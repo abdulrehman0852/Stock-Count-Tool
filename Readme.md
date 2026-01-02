@@ -19,6 +19,11 @@ This application is designed to streamline inventory management by allowing user
 - Summary statistics and unique value counts.
 - Audit trail logging.
 
+## 🚀 Live Application
+
+Access the deployed Streamlit app here:  
+👉 https://stock-count-tool-jpvjc8fnurrmp5he2ay4pk.streamlit.app/
+
 ## 📦 Requirements
 
 Install dependencies:
